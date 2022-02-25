@@ -60,3 +60,4 @@ crashlytics-build.properties
 
 # Personal test files
 /Assets/Prep/
+/Assets/Prep.meta
