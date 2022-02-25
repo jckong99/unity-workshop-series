@@ -1,4 +1,4 @@
-# unity-workshop-series
+# Unity Workshop Series
 An iterative workshop series in Unity for the UMD Game Developers Club.
 
-Take a look at my Git tutorial for some version control basics: https://github.com/jckong99/git-basics
+For some version control basics with Git, check out our older workshop [here](https://github.com/jckong99/git-basics).
